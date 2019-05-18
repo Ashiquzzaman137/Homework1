@@ -1,0 +1,27 @@
+h1
+{text-align: center;
+font-size:30px; border:2px; width:100px
+padding:20px;}
+h2{ text-align: center; color:purple;}
+p
+{ color:rgb(0,0,0);}
+.head1
+{
+	color:rgb(255,33,22);
+}
+#h2
+{
+	color:rgb(41,85,152);
+}
+.head2
+{ color:rgb(255,33,22); }
+.head3
+{
+	color:Black;
+
+}
+.head4
+{
+	color:Gold;
+
+}
